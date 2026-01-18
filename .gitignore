@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+outputs_latent_shapekey/*.bvh
+outputs_latent_shapekey/*.npz
+outputs_latent_shapekey/*.mp4
+outputs_latent_shapekey/*.png
+outputs_latent_shapekey/*.json
+
+.DS_Store
+Thumbs.db
+
+.vscode/

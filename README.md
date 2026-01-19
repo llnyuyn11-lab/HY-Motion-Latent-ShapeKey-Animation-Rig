@@ -1,6 +1,6 @@
 A Blender-friendly “motion shape-key rig” that maps latent controls to joint-space offsets, controlled via Gradio sliders and exported as BVH for instant preview.
 
-In plain language, this tool makes the AI animation output more controllable by changing and mixing the motion intensity with the slider, inspired by Blender's Shape Key. 
+In plain language, this tool makes AI-generated animation more controllable by letting users adjust and blend motion intensity through intuitive sliders, inspired by Blender’s Shape Keys.
 
 ---
 

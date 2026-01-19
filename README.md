@@ -2,6 +2,19 @@ A Blender-friendly “motion shape-key rig” that maps latent controls to joint
 
 In plain language, this tool makes the AI animation output more controllable by changing and mixing the motion intensity with the slider, inspired by Blender's Shape Key. 
 
+---
+
+## Author
+
+**Ryan Lin**  
+Creator & Developer 
+(Concept, system design, implementation, UI/UX, Blender integration)
+> This project was independently designed and implemented as a solo research and tooling effort.
+
+---
+
+
+
 (A) How to run the UI
 Example (Windows):
 
